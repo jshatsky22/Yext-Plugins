@@ -1,0 +1,9 @@
+{
+    "$id": "applyTemplatePlugin",
+    "$schema": "https://schema.yext.com/config/platform/plugin/v1",
+    "globals": {
+        "api_key": "${{api_key}}",
+        "entityType": "${{entity_type_to_apply_template_for}}",
+        "templateId": "${{templateId}}"
+    }
+}

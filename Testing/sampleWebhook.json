@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "eventType": "ENTITY_CREATED",
+    "uuid": "4cc7fb02-29a0-4d28-98ef-40817d1b3916",
+    "timestamp": 1652912252441,
+    "accountId": "2690459",
+    "actor": "USER",
+    "appSpecificAccountId": "1277544d360ee07a93d8fc21ceb667d3d71b5be7"
+  },
+  "entityId": "7842993947823686744",
+  "primaryProfile": {
+    "name": "Macbook Pro",
+    "meta": {
+      "accountId": "2690459",
+      "uid": "v5v3jv",
+      "id": "7842993947823686744",
+      "timestamp": "2022-05-18T22:17:32",
+      "folderId": "0",
+      "language": "en",
+      "countryCode": "US",
+      "entityType": "product"
+    }
+  },
+  "languageProfiles": [],
+  "changedFields": {
+    "language": "en",
+    "fieldNames": [
+      "meta.language",
+      "name",
+      "meta.id"
+    ]
+  }
+}
